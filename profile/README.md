@@ -1,6 +1,18 @@
-# Rightstep Health
+<p align="center">
+  <a href="https://rightstep-health.com/">
+    <img
+      src="./RS_logo_dark.png"
+      width="420"
+      alt="Rightstep Health logo"
+    >
+  </a>
+</p>
 
-**Applied research in sensors, human movement and signal processing.**
+<h1 align="center">Rightstep Health</h1>
+
+<p align="center">
+  <strong>Applied research in sensors, human movement and signal processing.</strong>
+</p>
 
 Rightstep Health conducts research and experimental engineering focused on measuring and interpreting biomechanical signals.
 
